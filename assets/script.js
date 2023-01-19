@@ -20,7 +20,6 @@ function selectTopic(){
         console.log('Please try again!');
     }
 }
-listTopics()
 
 console.log('Here are the topics we learned through Prework:');
 listTopics();
